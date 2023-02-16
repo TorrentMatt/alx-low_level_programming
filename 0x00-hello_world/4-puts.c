@@ -1,6 +1,5 @@
-#include <stio>
-/**
- * main - Aprogram tht prints a line with puts fuction
+#include <stdio.h>
+/** main - Aprogram tht prints a line with puts fuction
  * Return: 0 (success)
  */
 int main(void)
