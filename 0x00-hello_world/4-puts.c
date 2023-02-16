@@ -1,4 +1,4 @@
-#include <stio.h>
+#include <stio>
 /**
  * main - Aprogram tht prints a line with puts fuction
  * Return: 0 (success)
