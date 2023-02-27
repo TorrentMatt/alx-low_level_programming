@@ -1,6 +1,3 @@
-4-print_rev.c
-
-
 #include "main.h"
 /**
  * print_rev - imprime en reversa
