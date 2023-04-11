@@ -59,7 +59,7 @@ int main(int argc, char *argv[])
 {
 	int from;
 	int to;
-	int r, 
+	int r; 
 	int w;
 	char *buff;
 
